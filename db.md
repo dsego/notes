@@ -1,6 +1,6 @@
 # Interview Questions
-https://www.toptal.com/sql/interview-questions
-http://www.indiabix.com/technical/sql-server-common-questions/
+- https://www.toptal.com/sql/interview-questions
+- http://www.indiabix.com/technical/sql-server-common-questions/
 
 
 # HEAP
